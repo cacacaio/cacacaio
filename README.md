@@ -1,4 +1,13 @@
-### Hi there 👋
+## Projects
+ ### WEB-Based System
+  Worked on ASP.NET sytem to receive registrations from our APP and filter/check them, registrations are used on SABESP(Brazil Water Company) to generate a water income for people that live on slums.
+ ### Mobile WebView
+  Another ASP.NET system but this was a mobile website that ran on a App webview, it was the first iteration of the mobile APP that is used to register the clients on our system
+ ### Mobile APP
+  After some troubles with the WebView app, main problem being it required internet to work, I started building a React Native APP, and it's the one that's currently being used for all the registrations on our system, it has the same features as the 'old app' that allows our employees to register clients and can fix registrations that for some reason got rejected by our validation employees.
+ ### Web Api
+  Along with the Mobile App came a .net api, that's used to interact with everything related to our MSSQL DB
+  
 
 <!--
 **cacacaio/cacacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
