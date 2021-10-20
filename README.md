@@ -1,25 +1,23 @@
-## Projects
- ### WEB-Based System
-  Worked on ASP.NET sytem to receive registrations from our APP and filter/check them, registrations are used on SABESP(Brazil Water Company) to generate a water income for people that live on slums.
- ### Mobile WebView
-  Another ASP.NET system but this was a mobile website that ran on a App webview, it was the first iteration of the mobile APP that is used to register the clients on our system
- ### Mobile APP
-  After some troubles with the WebView app, main problem being it required internet to work, I started building a React Native APP, and it's the one that's currently being used for all the registrations on our system, it has the same features as the 'old app' that allows our employees to register clients and can fix registrations that for some reason got rejected by our validation employees.
- ### Web Api
-  Along with the Mobile App came a .net api, that's used to interact with everything related to our MSSQL DB
-  
+## Hi I'm Caio
 
-<!--
-**cacacaio/cacacaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
+- 💼 Currently working as mobile developer on Mestres da Web
+- 🎓 Currently studying Typescript, Prisma, Jest, Styled Components
+- 💻 Currently working with Typescript, Redux, React Native
 
-Here are some ideas to get you started:
+🚀 Stacks
+- 🌐 React - HTML - CSS - Styled Components - Typescript
+- 🛢 MySql - PostreSQL - SQL Server - MongoDB
+- 💻 React Native - Redux - Typescript - RealmDB - Expo - Styled Components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/cacacaio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cacacaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacacaio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+ <div align="center">
+  <a href = "mailto:cacaioassuncao@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cacacaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
