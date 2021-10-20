@@ -6,10 +6,10 @@
 - 💻 Currently working with Typescript, Redux, React Native
 
 🚀 Stacks
-- 🌐 React - HTML - CSS - Styled Components - Typescript
+- 🌐 React - HTML - CSS - Styled Components - Typescript - ASP.NET
 - 🛢 MySql - PostreSQL - SQL Server - MongoDB
 - 💻 React Native - Redux - Typescript - RealmDB - Expo - Styled Components
-
+- 🔧 .NET API - Node.JS
 
 <div align="center">
   <a href="https://github.com/cacacaio">
