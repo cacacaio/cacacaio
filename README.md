@@ -1,7 +1,7 @@
 ## Hi I'm Caio
 
 👨🏻‍💻 About Me
-- 💼 Currently working as mobile developer on Mestres da Web
+- 💼 Currently working as Tech Lead(React Native) on Mestres da Web
 - 🎓 Currently studying Typescript, Prisma, Jest, Styled Components
 - 💻 Currently working with Typescript, Redux, React Native
 
